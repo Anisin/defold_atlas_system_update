@@ -1,13 +1,52 @@
-# Welcome to Defold
+# Defold Atlas System Update
 
-This project was created from the "empty" project template.
+## Design Document & Problem Description
 
-The settings in ["game.project"](defold://open?path=/game.project) are all the default. A bootstrap empty ["main.collection"](defold://open?path=/main/main.collection) is included.
+### Case 01 Flipbook
+---
 
-Check out [the documentation pages](https://defold.com/learn) for examples, tutorials, manuals and API docs.
+В нашей игре 80% анимаций в игре - это flipbook анимации, т.к. все эти анимации мы создаём в Blender и получаем png последовательность.
+Есть простые анимации, например такие как шестерёнки, которые просто вращаются вокруг своей оси. Эти анимации сложно ещё более оптимизировать по размеру.
 
-If you run into trouble, help is available in [our forum](https://forum.defold.com).
+Однако многие анимации выглядят как Кирка или Молоток, когда небольшой спрайт меняет свою позицию и ракурс в пространстве.
+Если собирать стандартными средствами Defold… размеры Атласа
+Если собрать через Texture Packer… то вот так
 
-Happy Defolding!
+<img src="Media/Case01_Flipbook01_Defold.png" width="960" height="540">
+<img src="Media/Case01_Flipbook02_TexturePacker.png" width="960" height="540">
+<img src="Media/Case01_Flipbook03_TexturePackerIdentical.png" width="960" height="540">
+
+
+
+
+
+
+
+
+Дополнительно 
+Пример:
+Спрайты 10, 11 совершенно одинаковы и Texture Packer идентифицирует и кладёт в атлас как один спрайт и в нужном кадре использует именно этот спрайт.
+
+
+
+Альтернативы
+• Spine: Несмотря на то, что в игре мы используем 2D графику, все игровые Ассеты мы производим в 3D и рендерим по специальному пайплайну, поэтому анимация непосредственно в Blender упрощает процесс;
+• 3D модель: Из-за специфики графики, в частности обводки на модели, повторить подобный эффект на модели займёт очень много времени и исследований;
+
+
+
+### Case 02 Spine
+---
+
+Несколько месяцев назад, было разработано возможное решение, однако поддержка этого решения движка сейчас невозможная для нас задача.
+
+Плагин для TP:
+
+Версия движка с изменениями: TP
+
+<img src="Media/Case02_Spine01_Defold.png" width="960" height="540">
+<img src="Media/Case02_Spine02_TexturePackerRect.png" width="960" height="540">
+<img src="Media/Case02_Spine03_TexturePackerPolygon.png" width="960" height="540">
+
 
 ---

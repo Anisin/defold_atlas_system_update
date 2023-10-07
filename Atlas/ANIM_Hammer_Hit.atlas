@@ -1,0 +1,245 @@
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_001.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_002.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_003.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_004.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_005.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_006.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_007.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_008.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_009.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_010.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_011.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_012.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_013.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_014.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_015.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_016.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_017.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_018.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_019.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_020.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_021.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_022.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_023.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_024.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_025.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_026.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_027.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_028.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_029.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_030.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_031.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_032.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_033.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_034.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_035.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_036.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_037.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_038.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_039.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_040.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_041.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_042.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_043.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_044.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_045.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_046.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_047.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_048.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_049.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_050.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_051.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_052.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_053.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_054.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_055.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_056.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_057.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_058.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_059.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/Assets/ANIM_Hammer_Hit/ANIM_Hammer_Hit_060.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0
+max_page_width: 0
+max_page_height: 0
