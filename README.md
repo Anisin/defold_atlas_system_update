@@ -35,6 +35,10 @@ TexturePacker also has the option to detect identical sprites, which can further
 ### Case 02 Spine
 ---
 
+In the Merge Hotel project, almost all animations are spine animations.
+
+Therefore, the atlas packing functionality using polygons should help to reduce atlas size in some cases.
+
 **Spine Case in Defold**
 <img src="Media/Case02_Spine01_Defold.png" width="960" height="540">
 
