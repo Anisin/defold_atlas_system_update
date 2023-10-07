@@ -29,6 +29,7 @@ Another type of animation where a small sprite changes its position and perspect
 <img src="Media/Case01_Flipbook02_TexturePacker.png" width="960" height="540">
 
 TexturePacker also has the option to detect identical sprites, which can further reduce the size of the atlas. For some animations, this type of optimisation can reduce the size by 50%.
+
 **The identical Sprites that reduce size of final Atlas**
 <img src="Media/Case01_Flipbook03_TexturePackerIdentical.png" width="960" height="540">
 
@@ -49,7 +50,7 @@ Therefore, the atlas packing functionality using polygons should help to reduce 
 <img src="Media/Case02_Spine03_TexturePackerPolygon.png" width="960" height="540">
 
 
-### Current Workaround
+## Current Workaround
 
 A few months ago, a possible solution to the problem of trimming flipbook animations was developed that covered our needs.
 
